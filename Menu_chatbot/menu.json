@@ -1,0 +1,145 @@
+[
+  {
+    "monday": [
+      {
+        "breakfast": {
+          "poha": "poha and potato"
+        },
+        "lunch": {
+          "rice": "rice and salt",
+          "veg": "dal and tomato"
+        },
+        "dinner": {
+          "chapati": "flour and salt",
+          "veg": "paneer with gravy"
+        },
+        "wastage": {
+          "food": []
+        }
+      }
+    ]
+  },
+  {
+    "tuesday": [
+      {
+        "breakfast": {
+          "sabudana": "sago, peanuts and potato"
+        },
+        "lunch": {
+          "rice": "rice and salt",
+          "veg": "chole, onion and tomato and chole masala"
+        },
+        "dinner": {
+          "chapati": "flour and salt",
+          "veg": "ladyfinger and potato"
+        },
+        "wastage": {
+          "food": []
+        }
+      }
+    ]
+  },
+  {
+    "wednesday": [
+      {
+        "breakfast": {
+          "maggie": "maggie onion and tomato"
+        },
+        "lunch": {
+          "rice": "rice and salt",
+          "veg": "rajma with gravy"
+        },
+        "dinner": {
+          "chapati": "flour and salt",
+          "veg": "bittergaurd"
+        },
+        "wastage": {
+          "food": []
+        }
+      }
+    ]
+  },
+  {
+    "thursday": [
+      {
+        "breakfast": {
+          "paratha": "spinach and flour",
+          "chutney": "parsely and chilly"
+        },
+        "lunch": {
+          "rice": "rice and salt",
+          "veg": "soyabean , onion ,tomato"
+        },
+        "dinner": {
+          "chapati": "flour and salt",
+          "veg": "cauliflower and potato"
+        },
+        "wastage": {
+          "food": []
+        }
+      }
+    ]
+  },
+  {
+    "friday": [
+      {
+        "breakfast": {
+          "vermicelli": "vermicelli with onion and tomato"
+        },
+        "lunch": {
+          "rice": "rice and salt",
+          "veg": "bottlegaurd and gram lentils"
+        },
+        "dinner": {
+          "chapati": "flour and salt",
+          "veg": "potato with gravy"
+        },
+        "wastage": {
+          "food": []
+        }
+      }
+    ]
+  },
+  {
+    "saturday": [
+      {
+        "breakfast": {
+          "sandwitch": "bread and potato sabji and chutney"
+        },
+        "lunch": {
+          "rice": "rice and salt",
+          "veg": "curd curry"
+        },
+        "dinner": {
+          "chapati": "flour and salt",
+          "veg": "same beans and potato"
+        },
+        "wastage": {
+          "food": []
+        }
+      }
+    ]
+  },
+  {
+    "sunday": [
+      {
+        "breakfast": {
+          "idli": "idli paste",
+          "chutney": "coconut, chilli and parsely"
+        },
+        "lunch": {
+          "rice": "biryani",
+          "ingredients": "rice vegetables and biryani masala"
+        },
+        "dinner": {
+          "chapati": "flour and salt",
+          "veg": "drumstick with potato",
+          "sweet": "make any sweet"
+        },
+        "wastage": {
+          "food": []
+        }
+      }
+    ]
+  }
+]
