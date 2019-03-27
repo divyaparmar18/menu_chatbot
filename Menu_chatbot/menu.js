@@ -12,7 +12,7 @@ app.get('/get/:day',(req,res)=>{
     for(j=0;j<day.length;j++)
     for(i=0;i<data.length;i++){
         if (day[j] in data[i]){
-            //console.log(data[i])
+            day=day[j]
             return res.json(data[i][day])
         }
     }
